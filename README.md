@@ -1,2 +1,2 @@
 # My-first-project
-this project is just for test
+this project is just for test, it is a sunny day.
